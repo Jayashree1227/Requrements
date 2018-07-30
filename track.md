@@ -10,7 +10,7 @@ If you refer the above, certain query string are provided by the traffic source 
 zoneid={zoneid} - Zone id is the placement id where our ad is shown
 ```
 
-In future these ad works might start providing more tracking capabilities
+In future these ad works might start providing more tracking tokens
 
 Now in the above URL these are the ones which we will have to populate and not provided by propellerads. These are the default query string that our software should provide
 
