@@ -40,6 +40,7 @@ Now in the above URL these are the ones which we will have to populate and not p
 
 If the adnetwork provides city and state tokens, it is not necessary that I use our tokens rather I can use the adwetworks tokens.
 
+---
 
 ## Tab - Landers: 
 
@@ -52,7 +53,7 @@ Fields:
   Lander Name: 
   Lander URL: 
   
-
+---
 
 ## Tab - Offers: 
 
@@ -66,6 +67,7 @@ Fields:
   Offer name: 
   Offer URL: http://in.crigroups.com/index.html?cid={clickid}
 
+---
 
 ## Tab: campaign: 
 
@@ -77,12 +79,13 @@ Fields:
 
   Here you are linking both the lander and offer. Campaign tab will provide you a new URL. This is the URL which you use in traffic sources like google adwords, bing, trafficvance etc.
 
+---
 
 ## Tab: Traffic sources
 
   Traffic Source name: 
 
 
-
+---
 
 
