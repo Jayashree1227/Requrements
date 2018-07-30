@@ -50,8 +50,8 @@ Under this menu I would be able to create any number of landing pages
 
 Fields:
 
-  Lander Name: 
-  Lander URL: 
+* Lander Name: 
+* Lander URL: 
   
 ---
 
