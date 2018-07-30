@@ -1,3 +1,42 @@
+## Introduction
+
+This is how a typical URL looks
+
+http://gother-limbooks.com/81342a7e-96a9-4476-972d-21184556df1d?zoneid={zoneid}&device={device}&browser={browser}&os={os}&country={country}&region={region}&isp={isp}&useragent={useragent}&language={language}&connection_type={connectiontype}&cost={cost}&visitor_id=${SUBID}
+
+If you refer the above, certain query string are provided by the traffic source and certain will have to be provided by us. For example in the case of ad network propeller ads, the below are the ones provided by them
+
+zoneid={zoneid} - Zone id is the placement id where our ad is shown
+
+In future these ad works might start providing more tracking capabilities
+
+Now in the above URL these are the ones which we will have to populate and not provided by propellerads. These are the default query string that our software should provide
+
+{device}
+{brand}
+{model}
+{browser}
+{browserversion}
+{os}
+{osversion}
+{country}
+{countryname}
+{city}
+{region}
+{isp}
+{useragent}
+{ip}
+{var1} -
+{var2}
+{var3}
+{referrerdomain} 
+{language} - browser language
+{connection.type}  - broadband or wifi or carrier
+{carrier} - Airtel or Vodafone or Jio etc
+
+If the adnetwork provides city and state tokens, it is not necessary that I use our tokens rather I can use the adwetworks tokens.
+
+
 ## Tab - Landers: 
 
 Landing page is basically a presales page
@@ -38,3 +77,8 @@ Fields:
 ## Tab: Traffic sources
 
   Traffic Source name: 
+
+
+
+
+
