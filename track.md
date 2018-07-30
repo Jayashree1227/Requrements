@@ -1,4 +1,4 @@
-## Introduction
+## :boom: Introduction
 
 This is how a typical URL looks
 
@@ -42,7 +42,7 @@ If the adnetwork provides city and state tokens, it is not necessary that I use 
 
 ---
 
-## Tab - Landers: 
+## :boom: Tab - Landers: 
 
 Landing page is basically a presales page
 
@@ -55,7 +55,7 @@ Fields:
   
 ---
 
-## Tab - Offers: 
+## :boom: Tab - Offers: 
 
 Usually companies outsource their marketing needs to a third party. These third parties create a new landing page on top of the offer page.
 
@@ -69,7 +69,7 @@ Fields:
 
 ---
 
-## Tab: campaign: 
+## :boom: Tab: campaign: 
 
   Campaign name: 
   Country: Drop down:
@@ -81,7 +81,7 @@ Fields:
 
 ---
 
-## Tab: Traffic sources
+## :boom: Tab: Traffic sources
 
   Traffic Source name: 
 
