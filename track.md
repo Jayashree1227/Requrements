@@ -1,6 +1,6 @@
-## :boom: Introduction
+## :boom: 1. Introduction
 
-This is how a typical URL looks
+This is how a typical URL looks. This is the URL that we submit to an adnetwork. When someone clicks the ad the below URL loads and is taken to the appropriate landing page. When the landing page is clicked he is taken to the offer page.
 
 http://gother-limbooks.com/81342a7e-96a9-4476-972d-21184556df1d?zoneid={zoneid}&device={device}&browser={browser}&os={os}&country={country}&region={region}&isp={isp}&useragent={useragent}&language={language}&connection_type={connectiontype}&cost={cost}&visitor_id=${SUBID}
 
@@ -42,7 +42,7 @@ If the adnetwork provides city and state tokens, it is not necessary that I use 
 
 ---
 
-## :boom: Tab - Landers: 
+## :boom: 2. Tab - Landers: 
 
 Landing page is basically a presales page
 
@@ -55,7 +55,7 @@ Fields:
   
 ---
 
-## :boom: Tab - Offers: 
+## :boom: 3. Tab - Offers: 
 
 Usually companies outsource their marketing needs to a third party. These third parties create a new landing page on top of the offer page.
 
@@ -69,7 +69,7 @@ Fields:
 
 ---
 
-## :boom: Tab: campaign: 
+## :boom: 4. Tab: campaign: 
 
  * Campaign name: 
  * Country: Drop down:
@@ -81,7 +81,7 @@ Fields:
 
 ---
 
-## :boom: Tab: Traffic sources
+## :boom: 5. Tab: Traffic sources
 
 * Traffic Source name: 
 
