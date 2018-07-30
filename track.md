@@ -64,18 +64,18 @@ Usually companies outsource their marketing needs to a third party. These third 
 
 Fields:
 
-  Offer name: 
-  Offer URL: http://in.crigroups.com/index.html?cid={clickid}
+* Offer name: 
+* Offer URL: http://in.crigroups.com/index.html?cid={clickid}
 
 ---
 
 ## :boom: Tab: campaign: 
 
-  Campaign name: 
-  Country: Drop down:
-  Traffic Source: 
-  Landers: Drop down - Select the lander which you have already created
-  Offers: Dropdown - Select the offer which you have already created
+ * Campaign name: 
+ * Country: Drop down:
+ * Traffic Source: 
+ * Landers: Drop down - Select the lander which you have already created
+ * Offers: Dropdown - Select the offer which you have already created
 
   Here you are linking both the lander and offer. Campaign tab will provide you a new URL. This is the URL which you use in traffic sources like google adwords, bing, trafficvance etc.
 
@@ -83,7 +83,7 @@ Fields:
 
 ## :boom: Tab: Traffic sources
 
-  Traffic Source name: 
+ * Traffic Source name: 
 
 
 ---
