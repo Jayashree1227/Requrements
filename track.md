@@ -11,7 +11,9 @@ Fields:
   
 
 
-## Tab - Offers: Usually companies outsource their marketing needs to a third party. These third parties create a new landing page on top of the offer page.
+## Tab - Offers: 
+
+Usually companies outsource their marketing needs to a third party. These third parties create a new landing page on top of the offer page.
 
  Offer is the real landing page of the company
 
