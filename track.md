@@ -2,7 +2,18 @@
 
 This is how a typical URL looks
 
-http://gother-limbooks.com/81342a7e-96a9-4476-972d-21184556df1d?zoneid={zoneid}&device={device}&browser={browser}&os={os}&country={country}&region={region}&isp={isp}&useragent={useragent}&language={language}&connection_type={connectiontype}&cost={cost}&visitor_id=${SUBID}
+http://gother-limbooks.com/81342a7e-96a9-4476-972d-21184556df1d?zoneid={zoneid}&
+device={device}&
+browser={browser}&
+os={os}&
+country={country}&
+region={region}&
+isp={isp}&
+useragent={useragent}&
+language={language}&
+connection_type={connectiontype}&
+cost={cost}&
+visitor_id=${SUBID}
 
 If you refer the above, certain query string are provided by the traffic source and certain will have to be provided by us. For example in the case of ad network propeller ads, the below are the ones provided by them
 
