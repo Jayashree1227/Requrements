@@ -83,9 +83,9 @@ Fields:
 
 ## :boom: Tab: Traffic sources
 
- * Traffic Source name: 
+* Traffic Source name: 
 
-
+![tokens](images/token.jpeg)
 
 ---
 
