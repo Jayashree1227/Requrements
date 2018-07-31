@@ -108,7 +108,9 @@ So when a customer clicks on the link all the data attached to the click includi
 
 Once a conversion occurs(conversion can be form filled or offer page filled) the clickid is passed to the HITPATH alerting the network that a sale or lead was made and this is the SubID that came with it. 
 
-So once a sale or lead occurs the pingback URL is called by HITPATH automatically replacing the cid (check postback URL). This is then reflected in our software ie. as conversion occured for this subid.
+So once a sale or lead occurs the pingback URL is called by HITPATH automatically replacing the cid (check ping back URL). This is then reflected in our software ie. as conversion occured for this clickid.
+
+Option should also be given to manually update the clickids i.e copy all the clickids from HIT PATH and paste it here in our software. 
 
 Offer URL is always appended with click ID. Offer URL is available in our
 
