@@ -40,6 +40,8 @@ Now in the above URL these are the ones which we will have to populate and not p
 
 If the adnetwork provides city and state tokens, it is not necessary that I use our tokens rather I can use the adwetworks tokens.
 
+  ![tokens](images/architecture.jpg)
+  
 ---
 
 ## :boom: 2. Tab - Landers: 
