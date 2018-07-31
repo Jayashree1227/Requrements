@@ -100,4 +100,25 @@ Here you are linking both the lander and offer. Campaign tab will provide you a 
 
 ---
 
+## Tracking ID or Click ID or Sub ID (proposed to use with HIT PATH)
+
+In HTPATH or similiar software there will be a list of offers to promote. Our affiliates can pick any offer and promote. To identity them uniquely HITPATH suggests to append clickid ID to the offer URL as shown below. So click id is a unique numeric ID for each and every click. So no two clicks will be the same. 
+
+So when a customer clicks on the link all the data attached to the click including landing pages used for this offer, campaigns, city, state etc...is carried with the clickid
+
+Once a conversion occurs(conversion can be form filled or offer page filled) the clickid is passed to the HITPATH alerting the network that a sale or lead was made and this is the SubID that came with it. 
+
+So once a sale or lead occurs the pingback URL is called by HITPATH automatically replacing the cid (check postback URL). This is then reflected in our software ie. as conversion occured for this subid.
+
+Offer URL is always appended with click ID. Offer URL is available in our
+
+http://offer-URL.com/index.html?cid={clickid}
+
+Ping back URL: This is the URL which you place in the performance marketing network
+
+http://gother-limbooks.com/postback?cid=REPLACE&payout=OPTIONAL&txid=OPTIONAL
+
+
+
+
 
