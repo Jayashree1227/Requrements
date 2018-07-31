@@ -77,7 +77,9 @@ Fields:
  * Landers: Drop down - Select the lander which you have already created
  * Offers: Dropdown - Select the offer which you have already created
 
-  Here you are linking both the lander and offer. Campaign tab will provide you a new URL. This is the URL which you use in traffic sources like google adwords, bing, trafficvance etc.
+Here you are linking both the lander and offer. Campaign tab will provide you a new URL. This is the URL which you use in traffic sources like google adwords, bing, trafficvance etc.
+  
+![tokens](images/campaign.jpg)
 
 ---
 
