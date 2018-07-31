@@ -87,7 +87,7 @@ Fields:
 
 * Value Track PARAMETERS:
 
-![tokens](images/token.jpg)
+![tokens](images/token1.jpg)
 
 ---
 
