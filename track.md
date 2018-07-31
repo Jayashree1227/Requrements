@@ -53,7 +53,7 @@ Fields:
 * Lander Name: 
 * Lander URL: 
   
-  ![tokens](images/landers.jpg)
+  ![tokens](images/landers1.jpg)
   
 ---
 
