@@ -67,6 +67,9 @@ Fields:
 * Offer name: 
 * Offer URL: http://in.crigroups.com/index.html?cid={clickid}
 
+![tokens](images/offers.jpg)
+
+
 ---
 
 ## :boom: 4. Tab: campaign: 
