@@ -125,7 +125,7 @@ Offer URL is always appended with click ID. Offer URL is available in our
 ## Revision
 
 
-
+![tokens](images/tokens.jpg)
 
 
 
