@@ -129,7 +129,7 @@ Offer URL is always appended with click ID. Offer URL is available in our
 
 Default tokens are provided by our software, extra tokens are provided by the traffic source
 
-Default tokens:
+#### Default tokens:
 
 * Brands: samsung, Apple, Nokia etc
 * Browser Versions: Android 4, chrome mobile 33, opera mini 7, firefox 27
@@ -153,6 +153,31 @@ Default tokens:
 * Referrer: The referrer URL
 * Referrer Domain: The referrer domain
 * State/Region: Sao Paulo, Texas, California, Milano etc
+
+#### Traffic Source tokens
+
+Traffic source tokens are appended to the campaign URL
+
+A typical campaign URL would like this
+
+http://gother-limbooks.com/81342a7e-96a9-4476-972d-21184556df1d?zoneid={zoneid}&device={device}&browser={browser}&os={os}&country={country}&region={region}&isp={isp}&useragent={useragent}&language={language}&connection_type={connectiontype}&cost={cost}&visitor_id=${SUBID}
+
+Those tokens from zoneid are the tokens of traffic network - propeller ads
+
+#### What are the uses of default tokens
+
+On landing pages I can use default tokens like this
+
+Hello visitor from {city}
+Hello visitor from {country}
+Hellow {mobile carrier} customers -> This will be substituted as Reliance if the user is using Reliance
+
+Finally everything is pushed to Firebase including these values:
+
+When campaign URL is visited by a customer all default tokens, extra tokens, click id is insterted to the firebase along with the following details
+
+visits - people who visited the campaign URL
+clicks - people who visited the offer page
 
 
 
