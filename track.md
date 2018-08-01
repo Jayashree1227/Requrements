@@ -127,6 +127,32 @@ Offer URL is always appended with click ID. Offer URL is available in our
 
 ![tokens](images/tokens.jpg)
 
+Default tokens are provided by our software, extra tokens are provided by the traffic source
+
+Default tokens:
+
+* Brands: samsung, Apple, Nokia etc
+* Browser Versions: Android 4, chrome mobile 33, opera mini 7, firefox 27
+* Browser:
+* City:
+* Connection type: broadband, mobile, cable, xdsl, wireless, dialup
+* Country: 
+* Day: 2018-08-01
+* Day of the week: Monday
+* Hour of the day: 01:00 - 01:59
+* IP: 200.14.154.73
+* ISP: Blackberry limited, Smart Axiata, Claro Dominican Republic, Movistar Venuzeula
+* Landers: landing page under this campaign (landing page 1, landing page 2)
+* Language (Browser language): Italian, Breton, Tibeton, Tonga, Hebrew etc
+* Mobile carrier: Entel, Vodafone, Reliance, O2, Orange etc
+* Models: Desktop, apple ipad, apple iphone, samsung galaxy s4, opera mini 7
+* Month: August
+* OS: Andoird, windows, IOS, OSX, S40S
+* OS Versions: Windows 7, Andoird 4.1, Windows 8, Android 4.2, Android 4.0
+* Offers: The offers under this campaign
+* Referrer: The referrer URL
+* Referrer Domain: The referrer domain
+* State/Region: Sao Paulo, Texas, California, Milano etc
 
 
 
