@@ -15,7 +15,7 @@
 * TRAFFIC SOURCES FORM
 * AFFILIATE NETWORK FORM
 
-## LANDER FORM
+## :green_book: LANDER FORM
 
 When a user visits the lander URL, all the tokens are inerted to the database. The tokens can also be appended to the URL. When it is appended to the URL these tokens can be used in the landing page like shown below
 
@@ -37,7 +37,7 @@ Other Details that you will have to insert to the database
 
 ---
 
-## TRAFFIC SOURCES FORM
+## :green_book: TRAFFIC SOURCES FORM
 
 There are so many traffic sources like Google, Facebook etc. Each traffic source will have its set of tokens. I will be adding all the traffic source and its set of tokens to the system.
 
