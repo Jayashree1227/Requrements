@@ -48,3 +48,7 @@ There are so many traffic sources like Google, Facebook etc. Each traffic source
 ## :green_book: Affiliate Network FORM
 
 ![Affiliate Network Form](images/affiliate.png "Affiliate Network Form")
+
+## :green_book: OFFER FORM
+
+![Offer Form](images/offer.png "Offer Form")
