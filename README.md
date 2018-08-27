@@ -56,3 +56,14 @@ There are so many traffic sources like Google, Facebook etc. Each traffic source
 ## :green_book: CAMPAIGN FORM
 
 ![Campaign Form](images/campaign.png "Campaign Form")
+
+---
+
+Under campaign you can link a landing page and offer page. This is a sample campaign URL
+
+When you create a new campaign you will have to link and landing page and offer page. This URL is appended with the tokens which are provided in the traffic source form. If the traffic source is Google Adwords then the corresponding tokens are appended or if the traffic source is facebook ads then the corresponding tokens are appended.
+
+http://gother-limbooks.com/81342a7e-96a9-4476-972d-21184556df1d?zoneid={zoneid}&device={device}&browser={browser}&os={os}&country={country}&region={region}&isp={isp}&useragent={useragent}&language={language}&connection_type={connectiontype}&cost={cost}&visitor_id=${SUBID}
+
+
+
