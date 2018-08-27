@@ -25,9 +25,9 @@ Hello user from {CITY}  will be converted as -> Hello user from Coimbatore
 
 Other Details that you will have to insert to the database
 
-* Lander
-* Lander ID
-* Lander URL
+* Lander - Lander Name
+* Lander ID - cc6691ce-ebd0-43ae-a249-a92001627c00
+* Lander URL - URL of the lander
 * Lander Country tag
 
 * Visits  - The number of times the lander has be loaded in the browser
