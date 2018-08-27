@@ -39,3 +39,4 @@ Other Details that you will have to insert to the database
 
 ## TRAFFIC SOURCES FORM
 
+![Traffic Sources Form](images/traffic.png "Traffic Sources Form")
