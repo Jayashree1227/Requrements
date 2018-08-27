@@ -33,7 +33,9 @@ Other Details that you will have to insert to the database
 * Visits  - The number of times the lander has be loaded in the browser
 * Clicks  - The number of people who clicked the lander and visited the offer page
 
-## Default Calculations (these values should be calculated for campaigns/landers/offers/traffic sources/affiliate network)
+## Default Calculations 
+ 
+ (these values should be calculated for campaigns/landers/offers/traffic sources/affiliate network)
 
 * Conversions - When postback pixel is fired conversion happens
 * Revenue     - When postback pixel is fired revenue is calculated
