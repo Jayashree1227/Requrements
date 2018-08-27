@@ -23,7 +23,7 @@ Each token should be written as a seperate Lambda function.
 
 Hello user from {CITY}  will be converted as -> Hello user from Coimbatore
 
-![Lander Form](images/landers.png "Lander Form")
+![Lander Form](images/land.png "Lander Form")
 
 Other Details that you will have to insert to the database
 
