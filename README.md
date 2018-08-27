@@ -4,7 +4,7 @@
 * SERVERLESS/Microservice architecture
 * DYNAMO DB
 * NODEJS
-
+* I also need someone to set up an enviroment on AWS and GITHUB where multiple developers can contribute
 ---
 
 /* ------------------------ LIST OF FORMS IN THE APPLICATION ----------------------------- */
