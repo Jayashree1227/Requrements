@@ -39,4 +39,6 @@ Other Details that you will have to insert to the database
 
 ## TRAFFIC SOURCES FORM
 
+There are so many traffic sources like Google, Facebook etc. Each traffic source will have its set of tokens. I will be adding all the traffic source and its set of tokens to the system.
+
 ![Traffic Sources Form](images/traffic.png "Traffic Sources Form")
