@@ -1,4 +1,4 @@
-Technology Stack
+/* -------------------------------- TECHNOLOGY STACK --------------------------------- */
 
 * AWS LAMBDA
 * SERVERLESS/Microservice architecture
