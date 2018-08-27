@@ -15,9 +15,6 @@
 * TRAFFIC SOURCES FORM
 * AFFILIATE NETWORK FORM
 
----
-
-/* -------------------------- FORMS IMAGE ------------------------------------------------- */
 
 ![Lander Form](images/lander.png "Lander Form")
 
