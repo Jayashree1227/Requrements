@@ -19,6 +19,8 @@
 
 When a user visits the lander URL, all the tokens are inerted to the database. The tokens can also be appended to the URL. When it is appended to the URL these tokens can be used in the landing page like shown below
 
+Each token should be written as a seperate Lambda function.
+
 Hello user from {CITY}  will be converted as -> Hello user from Coimbatore
 
 ![Lander Form](images/landers.png "Lander Form")
