@@ -16,5 +16,5 @@
 * AFFILIATE NETWORK FORM
 
 
-![Lander Form](images/lander.png "Lander Form")
+![Lander Form](images/landers.png "Lander Form")
 
