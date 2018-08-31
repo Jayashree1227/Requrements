@@ -67,5 +67,6 @@ http://gother-limbooks.com/81342a7e-96a9-4476-972d-21184556df1d?zoneid={zoneid}&
 
 When the visitor clicks the campaign he is routed to the landing page. When the user clicks the button on the landing page he is routed to the offer page.
 
+##Flow
 
-
+![Flow Form](images/flow.jpg "flow")
