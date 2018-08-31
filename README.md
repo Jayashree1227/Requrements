@@ -70,3 +70,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 ## Flow
 
 ![Flow Form](images/flow.jpg "flow")
+
+## System Flow
+![SystemFlow Form](images/systemflow.jpg "flow")
+
