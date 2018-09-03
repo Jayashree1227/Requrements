@@ -82,9 +82,9 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 ## Campaign:
 ###### Url Parameters - System tokens or default tokens which can be appended to the campaign URL
 {clickid}
-{campaign.id}
-{campaign.name}
-{trafficsource.id}
+{campaign.id} : 81342a7e-96a9-4476-972d-21184556df1d
+{campaign.name} : Health&Nutra ENG3090G5
+{trafficsource.id} : 
 {trafficsource.name}
 {device}
 {brand}
@@ -121,21 +121,21 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 •	  Campaign workspace
 •	  Campaign workspace ID
 •	  Impressions
-•	  Visits
-•	  Clicks
-•	  Conversions
-•	  Revenue
-•	  Cost
-•	  Profit
-•	  CPV
+•	  Visits : 73,138
+•	  Clicks : 16,669
+•	  Conversions : 676
+•	  Revenue  : $1,250.60
+•	  Cost :  $0.00
+•	  Profit :$1,250.60
+•	  CPV : $0.0000
 •	  ICTR
-•	  CTR
-•	  CR
-•	  CV
-•	  ROI
-•	  EPV
-•	  EPC
-•	  AP
+•	  CTR : 22.79%
+•	  CR : 4.06%
+•	  CV : 0.92%
+•	  ROI :0.00%
+•	  EPV : $0.0171
+•	  EPC : $0.08
+•	  AP : $1.85
 •	  Errors
 •	  Postback URL
 •	  Redirect
