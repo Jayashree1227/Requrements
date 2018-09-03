@@ -112,7 +112,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {workspace.id}
 {workspace.name}
 
-* Scroll bar:
+###### Definition
       Campaign
 •	  Campaign ID
 •	  External campaign ID
@@ -180,7 +180,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {carrier}
 {workspace.id}
 {workspace.name}
-* Scroll bar:
+###### Definition
 •	  Offer
 •	  Offer ID
 •	  Offer URL
@@ -244,7 +244,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {workspace.id}
 {workspace.name}
 
-* Scroll bar:
+###### Definition
 •	  Lander
 •	  Lander ID
 •	  Lander URL
@@ -271,7 +271,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 •	  Errors
 
 ## Traffic Source:
-* scroll bar
+###### Definition
 
 •	 Traffic source
 •	  Traffic source ID
@@ -310,7 +310,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 
 ## Affiliate networks:
-* scroll bar
+###### Definition
 
 •	Affiliate network
 •	  Affiliate network ID
