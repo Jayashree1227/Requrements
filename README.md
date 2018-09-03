@@ -77,7 +77,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## There are 2 kinds of tokens
 
-![DEFAULT TOKENS](images/DEFAULT-TOKENS.jpg "flow")
+![DEFAULT-TOKENS](images/DEFAULTS-TOKENS.jpg "flow")
 
 ## Campaign:
 New Campaign:
