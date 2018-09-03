@@ -74,3 +74,8 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 ## System Flow
 ![SystemFlow Form](images/systemflow.jpg "flow")
 
+
+## There are 2 kinds of tokens
+
+
+
