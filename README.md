@@ -336,5 +336,30 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 •	  AP
 •	  Errors
 
+## Traffic Source tokens
 
+Traffic source tokens are set in TRAFFIC SOURCES FORM
 
+![Traffic Sources Form](images/traffic.png "Traffic Sources Form")
+
+Then in the campaign form if you select the appropriate traffic source all those tokens which are set in the traffic source form will be appended to the campaign URL
+
+![Campaign Form](images/campaign.png "Campaign Form")
+
+The campaign URL will look like this
+
+http://gother-limbooks.com/81342a7e-96a9-4476-972d-21184556df1d?
+zoneid={zoneid}&
+device={device}&
+browser={browser}&
+os={os}&
+country={country}&
+region={region}&
+isp={isp}&
+useragent={useragent}&
+language={language}&
+connection_type={connectiontype}&
+cost={cost}&
+visitor_id=${SUBID}
+
+Please note: The campaign URL can also have system tokens appended to it but all traffic source tokens are directly appended to the campaign URL only
