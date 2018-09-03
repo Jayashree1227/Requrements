@@ -113,7 +113,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {workspace.name}
 
 ###### Definition
-      Campaign
+•	  Campaign 
 •	  Campaign ID
 •	  External campaign ID
 •	  Campaign URL
