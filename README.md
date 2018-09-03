@@ -80,7 +80,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 ![defaulttoken](images/defaulttoken.png "flow")
 
 ## Campaign:
-###### Url Parameters
+###### Url Parameters - System tokens or default tokens which can be appended to the campaign URL
 {clickid}
 {campaign.id}
 {campaign.name}
@@ -145,7 +145,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 •	  CPM
 
 ## Offers:
-###### Url Paramaters
+###### Url Paramaters: System tokens or default tokens which can be appended to the OFFER URL
 {clickid}
 {campaign.id}
 {campaign.name}
@@ -209,7 +209,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 
 ## Landers:
-###### Url Parameters
+###### Url Parameters: System tokens or default tokens which can be appended to the LANDER URL
 {campaign.id}
 {campaign.name}
 {trafficsource.id}
