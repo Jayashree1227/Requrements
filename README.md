@@ -272,6 +272,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Traffic Source:
 * scroll bar
+
 •	 Traffic source
 •	  Traffic source ID
 •	  Traffic source workspace
@@ -310,6 +311,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Affiliate networks:
 * scroll bar
+
 •	Affiliate network
 •	  Affiliate network ID
 •	  Affiliate network workspace
