@@ -113,7 +113,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {workspace.name}
 
 * Scroll bar:
-    Campaign
+      Campaign
 •	  Campaign ID
 •	  External campaign ID
 •	  Campaign URL
@@ -140,7 +140,6 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 •	  Postback URL
 •	  Redirect
 •	  Cost model
-
 •	  CPA
 •	  CPC
 •	  CPM
@@ -244,8 +243,8 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {carrier}
 {workspace.id}
 {workspace.name}
-* Scroll bar:
 
+* Scroll bar:
 •	  Lander
 •	  Lander ID
 •	  Lander URL
@@ -273,7 +272,6 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Traffic Source:
 * scroll bar
-
 •	 Traffic source
 •	  Traffic source ID
 •	  Traffic source workspace
@@ -312,7 +310,6 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Affiliate networks:
 * scroll bar
-
 •	Affiliate network
 •	  Affiliate network ID
 •	  Affiliate network workspace
