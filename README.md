@@ -77,5 +77,261 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## There are 2 kinds of tokens
 
+![DEFAULT TOKENS](images/DEFAULT-TOKENS.jpg "flow")
+
+## Campaign:
+New Campaign:
+{clickid}
+{campaign.id}
+{campaign.name}
+{trafficsource.id}
+{trafficsource.name}
+{device}
+{brand}
+{model}
+{browser}
+{browserversion}
+{os}
+{osversion}
+{country}
+{countryname}
+{city}
+{region}
+{isp}
+{useragent}
+{ip}
+{var1}
+{var2}
+{var3}
+{var:variable name}
+{trackingdomain}
+{referrerdomain}
+{language}
+{carrier}
+{connection.type}
+{workspace.id}
+{workspace.name}
+Scroll bar:
+•	 Campaign
+•	  Campaign ID
+•	  External campaign ID
+•	  Campaign URL
+•	  Campaign country tag
+•	  Campaign workspace
+•	  Campaign workspace ID
+•	  Impressions
+•	  Visits
+•	  Clicks
+•	  Conversions
+•	  Revenue
+•	  Cost
+•	  Profit
+•	  CPV
+•	  ICTR
+•	  CTR
+•	  CR
+•	  CV
+•	  ROI
+•	  EPV
+•	  EPC
+•	  AP
+•	  Errors
+•	  Postback URL
+•	  Redirect
+•	  Cost model
+
+•	  CPA
+•	  CPC
+•	  CPM
+
+## Offers:
+Available URL tokens:
+{clickid}
+{campaign.id}
+{campaign.name}
+{trafficsource.id}
+{trafficsource.name}
+{lander.id}
+{lander.name}
+{offer.id}
+{offer.name}
+{device}
+{brand}
+{model}
+{browser}
+{browserversion}
+{os}
+{osversion}
+{country}
+{countryname}
+{city}
+{region}
+{isp}
+{useragent}
+{ip}
+{var1}
+{var2}
+{var3}
+{var:variable name}
+{trackingdomain}
+{referrerdomain}
+{language}
+{connection.type}
+{carrier}
+{workspace.id}
+{workspace.name}
+Scroll bar:
+•	  Offer
+•	  Offer ID
+•	  Offer URL
+•	  Offer country tag
+•	  Offer workspace
+•	  Offer workspace ID
+•	  Payout
+•	  Conversion cap
+•	  Impressions
+•	  Visits
+•	  Clicks
+•	  Conversions
+•	  Revenue
+•	  Cost
+•	  Profit
+•	  CPV
+•	  ICTR
+•	  CTR
+•	  CR
+•	  CV
+•	  ROI
+•	  EPV
+•	  EPC
+•	  AP
+•	  Errors
+
+
+## Landers:
+
+{campaign.id}
+{campaign.name}
+{trafficsource.id}
+{trafficsource.name}
+{offer.id}
+{offer.name}
+{lander.id}
+{lander.name}
+{device}
+{brand}
+{model}
+{browser}
+{browserversion}
+{os}
+{osversion}
+{country}
+{countryname}
+{city}
+{region}
+{isp}
+{useragent}
+{ip}
+{var1}
+{var2}
+{var3}
+{var:variable name}
+{trackingdomain}
+{referrerdomain}
+{language}
+{connection.type}
+{carrier}
+{workspace.id}
+{workspace.name}
+Scroll bar:
+•	  Lander
+•	  Lander ID
+•	  Lander URL
+•	  Lander country tag
+•	  Number of offers
+•	  Lander workspace
+•	  Lander workspace ID
+•	  Impressions
+•	  Visits
+•	  Clicks
+•	  Conversions
+•	  Revenue
+•	  Cost
+•	  Profit
+•	  CPV
+•	  ICTR
+•	  CTR
+•	  CR
+•	  CV
+•	  ROI
+•	  EPV
+•	  EPC
+•	  AP
+•	  Errors
+
+## Traffic Source:
+
+•	 Traffic source
+•	  Traffic source ID
+•	  Traffic source workspace
+•	  Traffic source workspace ID
+•	  Impressions
+•	  Visits
+•	  Clicks
+•	  Conversions
+•	  Revenue
+•	  Cost
+•	  Profit
+•	  CPV
+•	  ICTR
+•	  CTR
+•	  CR
+•	  CV
+•	  ROI
+•	  EPV
+•	  EPC
+•	  AP
+•	  Errors
+•	  Postback URL
+•	  Click ID
+•	  Cost argument
+•	  Variable 1
+•	  Variable 2
+•	  Variable 3
+•	  Variable 4
+•	  Variable 5
+•	  Variable 6
+•	  Variable 7
+•	  Variable 8
+•	  Variable 9
+•	  Variable 10
+
+
+## Affiliate networks:
+
+•	Affiliate network
+•	  Affiliate network ID
+•	  Affiliate network workspace
+•	  Affiliate network workspace ID
+•	  Append click ID
+•	  Whitelisted IP
+•	  Impressions
+•	  Visits
+•	  Clicks
+•	  Conversions
+•	  Revenue
+•	  Cost
+•	  Profit
+•	  CPV
+•	  ICTR
+•	  CTR
+•	  CR
+•	  CV
+•	  ROI
+•	  EPV
+•	  EPC
+•	  AP
+•	  Errors
+
 
 
