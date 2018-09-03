@@ -80,7 +80,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 ![DEFAULT-TOKENS](images/DEFAULTS-TOKENS.png "flow")
 
 ## Campaign:
-New Campaign:
+* New Campaign:
 {clickid}
 {campaign.id}
 {campaign.name}
@@ -146,7 +146,7 @@ New Campaign:
 •	  CPM
 
 ## Offers:
-Available URL tokens:
+* Available URL tokens:
 {clickid}
 {campaign.id}
 {campaign.name}
@@ -181,7 +181,7 @@ Available URL tokens:
 {carrier}
 {workspace.id}
 {workspace.name}
-Scroll bar:
+* Scroll bar:
 •	  Offer
 •	  Offer ID
 •	  Offer URL
@@ -244,7 +244,7 @@ Scroll bar:
 {carrier}
 {workspace.id}
 {workspace.name}
-Scroll bar:
+* Scroll bar:
 •	  Lander
 •	  Lander ID
 •	  Lander URL
@@ -271,7 +271,7 @@ Scroll bar:
 •	  Errors
 
 ## Traffic Source:
-
+* scroll bar
 •	 Traffic source
 •	  Traffic source ID
 •	  Traffic source workspace
@@ -309,7 +309,7 @@ Scroll bar:
 
 
 ## Affiliate networks:
-
+* scroll bar
 •	Affiliate network
 •	  Affiliate network ID
 •	  Affiliate network workspace
