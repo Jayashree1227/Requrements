@@ -77,7 +77,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## There are 2 kinds of tokens
 
-![DEFAULT-TOKENS](images/DEFAULTS-TOKENS.png "flow")
+![DEFAULT-TOKENS](images/DEFAULT-TOKENS.png "flow")
 
 ## Campaign:
 * New Campaign:
@@ -245,6 +245,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {workspace.id}
 {workspace.name}
 * Scroll bar:
+
 •	  Lander
 •	  Lander ID
 •	  Lander URL
@@ -272,6 +273,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Traffic Source:
 * scroll bar
+
 •	 Traffic source
 •	  Traffic source ID
 •	  Traffic source workspace
@@ -310,6 +312,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Affiliate networks:
 * scroll bar
+
 •	Affiliate network
 •	  Affiliate network ID
 •	  Affiliate network workspace
