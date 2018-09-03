@@ -77,7 +77,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## There are 2 kinds of tokens
 
-![DEFAULT-TOKENS](images/DEFAULTS-TOKENS.jpg "flow")
+![DEFAULT-TOKENS](images/DEFAULTS-TOKENS.png "flow")
 
 ## Campaign:
 New Campaign:
@@ -111,8 +111,9 @@ New Campaign:
 {connection.type}
 {workspace.id}
 {workspace.name}
-Scroll bar:
-•	 Campaign
+
+* Scroll bar:
+    Campaign
 •	  Campaign ID
 •	  External campaign ID
 •	  Campaign URL
