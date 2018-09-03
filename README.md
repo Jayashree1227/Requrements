@@ -80,7 +80,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 ![defaulttoken](images/defaulttoken.png "flow")
 
 ## Campaign:
-* New Campaign:
+###### Url Parameters
 {clickid}
 {campaign.id}
 {campaign.name}
@@ -112,7 +112,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {workspace.id}
 {workspace.name}
 
-###### Definition
+###### Reporting Parameters
 •	  Campaign 
 •	  Campaign ID
 •	  External campaign ID
@@ -145,7 +145,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 •	  CPM
 
 ## Offers:
-* Available URL tokens:
+###### Url Paramaters
 {clickid}
 {campaign.id}
 {campaign.name}
@@ -180,7 +180,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {carrier}
 {workspace.id}
 {workspace.name}
-###### Definition
+###### Reporting Parameters
 •	  Offer
 •	  Offer ID
 •	  Offer URL
@@ -209,7 +209,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 
 ## Landers:
-
+###### Url Parameters
 {campaign.id}
 {campaign.name}
 {trafficsource.id}
@@ -244,7 +244,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {workspace.id}
 {workspace.name}
 
-###### Definition
+###### Reporting Parameters
 •	  Lander
 •	  Lander ID
 •	  Lander URL
@@ -271,7 +271,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 •	  Errors
 
 ## Traffic Source:
-###### Definition
+###### Reporting Parameters
 
 •	 Traffic source
 •	  Traffic source ID
@@ -310,7 +310,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 
 ## Affiliate networks:
-###### Definition
+###### Reporting Parameters
 
 •	Affiliate network
 •	  Affiliate network ID
