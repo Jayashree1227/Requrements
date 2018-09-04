@@ -174,10 +174,10 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 * {var3}
 * {var:variable name}
 * {trackingdomain}
-* {referrerdomain}
-* {language}
-* {connection.type}
-* {carrier}
+* {referrerdomain}: unknown
+* {language} :Danish,Icelandic,Swahili  
+* {connection.type} : Broadband, Mobile, Cable
+* {carrier}: Blackberry Limited, Smart Axiata co. ltd.
 * {workspace.id}
 * {workspace.name}
 
@@ -210,131 +210,129 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Landers:
 ###### Url Parameters: System tokens or default tokens which can be appended to the LANDER URL
-{campaign.id}
-{campaign.name}
-{trafficsource.id}
-{trafficsource.name}
-{offer.id}
-{offer.name}
-{lander.id}
-{lander.name}
-{device}
-{brand}
-{model}
-{browser}
-{browserversion}
-{os}
-{osversion}
-{country}
-{countryname}
-{city}
-{region}
-{isp}
-{useragent}
-{ip}
-{var1}
-{var2}
-{var3}
-{var:variable name}
-{trackingdomain}
-{referrerdomain}
-{language}
-{connection.type}
-{carrier}
-{workspace.id}
-{workspace.name}
+* {campaign.id} : 81342a7e-96a9-4476-972d-21184556df1d
+* {campaign.name} : Health&Nutra ENG3090G5
+* {trafficsource.id}
+* {trafficsource.name}
+* {lander.id}: cc6691ce-ebd0-43ae-a249-a92001627c00
+* {lander.name}: Global - EN - Nutra - HTTPS
+* {offer.id}: e1e72320-b46c-4fb8-b0b5-82a19395a71d
+* {offer.name}: unkown
+* {device} : Mobile phone, desktop, tablet
+* {brand} : samsung, Nokia, motorola, lenovo, HTC, Sony
+* {model}:Samsung Galaxy S4, Opera Mini 7, Samsung Galaxy Tab 2 7.0, 
+* {browser}: chrome mobile, Android Browser, Safari, Opera Mini 
+* {browserversion}: Android Browser 4, Chrome Mobile 33, Chrome 31 
+* {os}: Android, windows,IOS, OS X
+* {osversion}: Windows 7, Android 4.1, Windows 8,
+* {country}: Singapore,Cambodia, Italy
+* {countryname}:
+* {city}:Jakarta,Maputo,Don Bosco
+* {region}: Jakarta Raya, Distrito Federal, Maputo City
+* {isp}: Blackberry Limited, Telecom Italia s.p.a.
+* {useragent}
+* {ip}: 200.84.154.73, 103.246.201.40
+* {var1}
+* {var2}
+* {var3}
+* {var:variable name}:
+* {trackingdomain}:
+* {referrerdomain}: unknown
+* {language} :Danish,Icelandic,Swahili  
+* {connection.type} : Broadband, Mobile, Cable
+* {carrier}: Blackberry Limited, Smart Axiata co. ltd.
+* {workspace.id}
+* {workspace.name}
 
 ###### Reporting Parameters
-•	  Lander
-•	  Lander ID
-•	  Lander URL
-•	  Lander country tag
-•	  Number of offers
-•	  Lander workspace
-•	  Lander workspace ID
-•	  Impressions
-•	  Visits
-•	  Clicks
-•	  Conversions
-•	  Revenue
-•	  Cost
-•	  Profit
-•	  CPV
-•	  ICTR
-•	  CTR
-•	  CR
-•	  CV
-•	  ROI
-•	  EPV
-•	  EPC
-•	  AP
-•	  Errors
+* Lander: Global - RU - Fitness Apps - HTTPS
+* Lander ID:3d29bd1b-787e-46e8-9543-749a87a8398d
+* Lander country tag:Unknown
+* Number of offers:1
+*	Lander workspace:Private: John
+*	Lander workspace ID:93b152bc-3f5e-4c41-b9d1-f2bc70e21eb4
+*	Impressions:0
+*	Visits: 203,125
+*	Clicks:23,101
+*	Conversions: 1,062
+*	Revenue: $2,907.90
+*	Cost:$1,250.18
+* Profit: $1,657.72
+*	CPV: $0.0062
+*	ICTR: 0.00%
+*	CTR: 11.37%
+*	CR:4.60%
+* CV:0.52%
+* ROI: 132.60%
+*	EPV: $0.0143
+* EPC: $0.13
+*	AP : $2.74
+*	Errors: 0
 
 ## Traffic Source:
 ###### Reporting Parameters
 
-•	 Traffic source
-•	  Traffic source ID
-•	  Traffic source workspace
-•	  Traffic source workspace ID
-•	  Impressions
-•	  Visits
-•	  Clicks
-•	  Conversions
-•	  Revenue
-•	  Cost
-•	  Profit
-•	  CPV
-•	  ICTR
-•	  CTR
-•	  CR
-•	  CV
-•	  ROI
-•	  EPV
-•	  EPC
-•	  AP
-•	  Errors
-•	  Postback URL
-•	  Click ID
-•	  Cost argument
-•	  Variable 1
-•	  Variable 2
-•	  Variable 3
-•	  Variable 4
-•	  Variable 5
-•	  Variable 6
-•	  Variable 7
-•	  Variable 8
-•	  Variable 9
-•	  Variable 10
+*	Traffic source: Zeropark
+*	Traffic source ID: 9e00c50f-3252-45cd-b134-7abc69dbea2a
+*	Traffic source workspace: Public
+*	Traffic source workspace ID:
+*	Impressions: 0
+*	Visits: 114,722
+* Conversions: 2,532
+* Revenue:$4,917.50
+*	Cost: $0.00
+* Profit: $4,917.50
+*	CPV: $0.0000
+* ICTR:0.00%
+* CTR: 7.56%
+* CR:29.20%
+* CV: 2.21%
+* ROI: 0.00%
+*	EPV: $0.0429
+*	EPC: $0.57
+*	AP: $1.94
+*	Errors: 0
+* Postback URL: Unknown
+* Click ID: Unknown
+*	Cost argument: Unknown
+* Variable 1
+* Variable 2
+* Variable 3
+* Variable 4
+*	Variable 5
+* Variable 6
+* Variable 7
+*	Variable 8
+*	Variable 9
+*	Variable 10
 
 
 ## Affiliate networks:
 ###### Reporting Parameters
 
-•	Affiliate network
-•	  Affiliate network ID
-•	  Affiliate network workspace
-•	  Affiliate network workspace ID
-•	  Append click ID
-•	  Whitelisted IP
-•	  Impressions
-•	  Visits
-•	  Clicks
-•	  Conversions
-•	  Revenue
-•	  Cost
-•	  Profit
-•	  CPV
-•	  ICTR
-•	  CTR
-•	  CR
-•	  CV
-•	  ROI
-•	  EPV
-•	  EPC
-•	  AP
-•	  Errors
+*	Affiliate network: DemoAffiliateNetwork
+* Affiliate network ID: 602c0405-b98e-49ca-a0ed-2ecd61840ad0
+*	Affiliate network workspace: Public
+*	Affiliate network workspace ID:
+*	Append click ID: No
+*	Whitelisted IP:	No 
+*	Impressions: 0
+*	Visits:904,742
+* Clicks: 59,022
+*	Conversions: 13,896
+* Revenue:$27,490.90
+*	Cost:$3,814.94
+* Profit:$23,675.96
+*	CPV:$0.0042
+*	ICTR:0.00%
+*	CTR:6.52%
+*	CR:23.54%
+* CV:1.54%
+*	ROI:620.61%
+* EPV:$0.0304
+*	EPC: $0.47
+*	AP: $1.98
+*	Errors: 3,276
 
 ## Traffic Source tokens
 
