@@ -81,68 +81,68 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Campaign:
 ###### Url Parameters - System tokens or default tokens which can be appended to the campaign URL
-{clickid}
-{campaign.id} : 81342a7e-96a9-4476-972d-21184556df1d
-{campaign.name} : Health&Nutra ENG3090G5
-{trafficsource.id} : 
-{trafficsource.name}: PropellerAds
-{device} : Mobile phone, desktop, tablet
-{brand} : samsung, Nokia, motorola, lenovo, HTC, Sony
-{model}:Samsung Galaxy S4, Opera Mini 7, Samsung Galaxy Tab 2 7.0, 
-{browser}: chrome mobile, Android Browser, Safari, Opera Mini 
-{browserversion}: Android Browser 4, Chrome Mobile 33, Chrome 31 
-{os}: Android, windows,IOS, OS X
-{osversion}: Windows 7, Android 4.1, Windows 8,
-{country}: Singapore,Cambodia, Italy
-{countryname}:
-{city}:Jakarta,Maputo,Don Bosco
-{region}: Jakarta Raya, Distrito Federal, Maputo City
-{isp}: Blackberry Limited, Telecom Italia s.p.a.
-{useragent}
-{ip}: 200.84.154.73, 103.246.201.40
-{var1}
-{var2}
-{var3}
-{var:variable name}
-{trackingdomain}
-{referrerdomain}: unknown
-{language} :Danish,Icelandic,Swahili  
-{carrier}: Blackberry Limited, Smart Axiata co. ltd.
-{connection.type} : Broadband, Mobile, Cable
-{workspace.id}
-{workspace.name}
+* {clickid}
+* {campaign.id} : 81342a7e-96a9-4476-972d-21184556df1d
+* {campaign.name} : Health&Nutra ENG3090G5
+* {trafficsource.id} : 
+* {trafficsource.name}: PropellerAds
+* {device} : Mobile phone, desktop, tablet
+* {brand} : samsung, Nokia, motorola, lenovo, HTC, Sony
+* {model}:Samsung Galaxy S4, Opera Mini 7, Samsung Galaxy Tab 2 7.0, 
+* {browser}: chrome mobile, Android Browser, Safari, Opera Mini 
+* {browserversion}: Android Browser 4, Chrome Mobile 33, Chrome 31 
+* {os}: Android, windows,IOS, OS X
+* {osversion}: Windows 7, Android 4.1, Windows 8,
+* {country}: Singapore,Cambodia, Italy
+* {countryname}:
+* {city}:Jakarta,Maputo,Don Bosco
+* {region}: Jakarta Raya, Distrito Federal, Maputo City
+* {isp}: Blackberry Limited, Telecom Italia s.p.a.
+* {useragent}
+* {ip}: 200.84.154.73, 103.246.201.40
+* {var1}
+* {var2}
+* {var3}
+* {var:variable name}
+* {trackingdomain}
+* {referrerdomain}: unknown
+* {language} :Danish,Icelandic,Swahili  
+* {carrier}: Blackberry Limited, Smart Axiata co. ltd.
+* {connection.type} : Broadband, Mobile, Cable
+* {workspace.id}
+* {workspace.name}
 
 ###### Reporting Parameters
-•	  Campaign : Health&Nutra ENG3090G5
-•	  Campaign ID: 81342a7e-96a9-4476-972d-21184556df1d
-•	  External campaign ID
-•	  Campaign URL: Unknown 
-•	  Campaign country tag: United States
-•	  Campaign workspace: Private: John
-•	  Campaign workspace ID: 93b152bc-3f5e-4c41-b9d1-f2bc70e21eb4
-•	  Impressions: 1,00,000
-•	  Visits : 73,138
-•	  Clicks : 16,669
-•	  Conversions : 676
-•	  Revenue  : $1,250.60
-•	  Cost :  $0.00
-•	  Profit :$1,250.60
-•	  CPV : $0.0000
-•	  ICTR : 23.05%
-•	  CTR : 22.79%
-•	  CR : 4.06%
-•	  CV : 0.92%
-•	  ROI :0.00%
-•	  EPV : $0.0171
-•	  EPC : $0.08
-•	  AP : $1.85
-•	  Errors:0
-•	  Postback URL:	Unknown 
-•	  Redirect: REGULAR
-•	  Cost model: AUTO
-•	  CPA: $0.000
-•	  CPC: $0.000
-•	  CPM: $0.000
+* Campaign : Health&Nutra ENG3090G5
+* Campaign ID: 81342a7e-96a9-4476-972d-21184556df1d
+* External campaign ID
+*	Campaign URL: Unknown 
+*	Campaign country tag: United States
+* Campaign workspace: Private: John
+*	Campaign workspace ID: 93b152bc-3f5e-4c41-b9d1-f2bc70e21eb4
+*	Impressions: 1,00,000
+*	Visits : 73,138
+* Clicks : 16,669
+*	Conversions : 676
+*	Revenue  : $1,250.60
+*	Cost :  $0.00
+*	Profit :$1,250.60
+* CPV : $0.0000
+*	ICTR : 23.05%
+* CTR : 22.79%
+* CR : 4.06%
+*	CV : 0.92%
+* ROI :0.00%
+*	EPV : $0.0171
+*	EPC : $0.08
+*	AP : $1.85
+*	Errors:0
+* Postback URL:	Unknown 
+* Redirect: REGULAR
+* Cost model: AUTO
+* CPA: $0.000
+*	CPC: $0.000
+*	CPM: $0.000
 
 ## Offers:
 ###### Url Paramaters: System tokens or default tokens which can be appended to the OFFER URL
@@ -180,6 +180,7 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 {carrier}
 {workspace.id}
 {workspace.name}
+
 ###### Reporting Parameters
 •	  Offer
 •	  Offer ID
