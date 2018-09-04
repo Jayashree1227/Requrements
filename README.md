@@ -146,67 +146,66 @@ When the visitor clicks the campaign he is routed to the landing page. When the 
 
 ## Offers:
 ###### Url Paramaters: System tokens or default tokens which can be appended to the OFFER URL
-{clickid}
-{campaign.id}
-{campaign.name}
-{trafficsource.id}
-{trafficsource.name}
-{lander.id}
-{lander.name}
-{offer.id}
-{offer.name}
-{device}
-{brand}
-{model}
-{browser}
-{browserversion}
-{os}
-{osversion}
-{country}
-{countryname}
-{city}
-{region}
-{isp}
-{useragent}
-{ip}
-{var1}
-{var2}
-{var3}
-{var:variable name}
-{trackingdomain}
-{referrerdomain}
-{language}
-{connection.type}
-{carrier}
-{workspace.id}
-{workspace.name}
+* {clickid}
+* {campaign.id} : 81342a7e-96a9-4476-972d-21184556df1d
+* {campaign.name}: Health&Nutra ENG3090G5
+* {trafficsource.id}: 
+* {trafficsource.name}:
+* {lander.id}: cc6691ce-ebd0-43ae-a249-a92001627c00
+* {lander.name}: Global - EN - Nutra - HTTPS
+* {offer.id}: e1e72320-b46c-4fb8-b0b5-82a19395a71d
+* {offer.name}: unkown
+* {device} : Mobile phone, desktop, tablet
+* {brand} : samsung, Nokia, motorola, lenovo, HTC, Sony
+* {model}:Samsung Galaxy S4, Opera Mini 7, Samsung Galaxy Tab 2 7.0, 
+* {browser}: chrome mobile, Android Browser, Safari, Opera Mini 
+* {browserversion}: Android Browser 4, Chrome Mobile 33, Chrome 31 
+* {os}: Android, windows,IOS, OS X
+* {osversion}: Windows 7, Android 4.1, Windows 8,
+* {country}: Singapore,Cambodia, Italy
+* {countryname}:
+* {city}:Jakarta,Maputo,Don Bosco
+* {region}: Jakarta Raya, Distrito Federal, Maputo City
+* {isp}: Blackberry Limited, Telecom Italia s.p.a.
+* {useragent}
+* {ip}: 200.84.154.73, 103.246.201.40
+* {var1}
+* {var2}
+* {var3}
+* {var:variable name}
+* {trackingdomain}
+* {referrerdomain}
+* {language}
+* {connection.type}
+* {carrier}
+* {workspace.id}
+* {workspace.name}
 
 ###### Reporting Parameters
-•	  Offer
-•	  Offer ID
-•	  Offer URL
-•	  Offer country tag
-•	  Offer workspace
-•	  Offer workspace ID
-•	  Payout
-•	  Conversion cap
-•	  Impressions
-•	  Visits
-•	  Clicks
-•	  Conversions
-•	  Revenue
-•	  Cost
-•	  Profit
-•	  CPV
-•	  ICTR
-•	  CTR
-•	  CR
-•	  CV
-•	  ROI
-•	  EPV
-•	  EPC
-•	  AP
-•	  Errors
+*	Offer: Global - Healthy Nutrition
+*	Offer ID:	e1e72320-b46c-4fb8-b0b5-82a19395a71d
+* Offer URL: Unknown
+* Offer country tag: Unknown
+* Offer workspace : Private: Adam's Team
+*	Offer workspace ID :5a280365-d9e7-4b4e-a988-051e7b0004cb
+* Payout : $1.850
+* Conversion cap: 
+* Impressions: 0
+*	Visits: 165,511
+* Clicks: 23,252
+*	Conversions: 2,394
+*	Revenue: $4,428.90
+* Cost: $1,444.13
+* Profit:$2,984.77
+* ICTR:0.00%
+* CTR: 14.05%
+* CR: 10.30%
+* CV: 1.45%
+* ROI: 206.68%
+*	EPV:$0.0268
+*	EPC: $0.19
+*	AP :$1.85
+*	Errors : 0
 
 
 ## Landers:
