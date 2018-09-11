@@ -380,11 +380,25 @@ I want each functionality to be as a seperate microservice which will run indepe
 
 Seperate LAMBDA function to capture each token
 
-  capture_external_token_os();
-  capture_external_token_device();
-  capture_internal_token_
+  * capture_external_token_os();
+  * capture_external_token_device();
+  * capture_internal_token_
 
 ### Milestone 2:
 
-
+ Seperate LAMBDA function to capture the following
+   
+   * Impressions
+   * Clicks
+   * Conversions
+   * Cost
+   * Revenue
+   * Profit
+   * CPV
+   * CTR
+   * CR
+   * ROI
+   * EPV
+   * EPC
+   
 
