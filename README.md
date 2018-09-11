@@ -369,3 +369,14 @@ Please note: The campaign URL can also have system tokens appended to it but all
 ## Complete Flow
 
 ![Complete Flow](images/vol.jpg "Campaign Form")
+
+## Milestones
+
+### Milestone 1: Store external tokens and default tokens in dynamoDB
+
+1. Ask the user to enter URL. The user enters the URL. He appends external tokens to the URL. The system should capture all the external tokens and default tokens and store it in dynamodb
+
+### Milestone 2:
+
+
+
