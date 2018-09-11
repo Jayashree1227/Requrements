@@ -372,9 +372,17 @@ Please note: The campaign URL can also have system tokens appended to it but all
 
 ## Milestones
 
+I want each functionality to be as a seperate microservice which will run independently as a seperate LAMBDA function. As of now only create the necessary LAMBDA functions required.
+
 ### Milestone 1: Store external tokens and default tokens in dynamoDB
 
-1. Ask the user to enter URL. The user enters the URL. He appends external tokens to the URL. The system should capture all the external tokens and default tokens and store it in dynamodb
+1. Ask the user to enter URL. The user enters the URL. He appends external tokens to the URL. The system should capture all the external tokens and default tokens and store it in dynamodb. 
+
+Seperate LAMBDA function to capture each token
+
+  capture_external_token_os();
+  capture_external_token_device();
+  capture_internal_token_
 
 ### Milestone 2:
 
